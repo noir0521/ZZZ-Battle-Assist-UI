@@ -1,15 +1,18 @@
 # ZZZ-Battle-Assist-UI
 
-This mod is currently managed by me and mob159. Feel free to send feedbacks and report issues.
+This mod is currently managed by **me** and **mob159**. Feel free to send feedbacks and report issues.
 
-This mod is based on the original work from summersby and the band-aid fix version from mob159.
+This mod is based on the original work from **summersby** and the band-aid fix version from **mob159**.
 
-summersby: https://gamebanana.com/members/3549585
-mob159: https://gamebanana.com/members/3552703
-noirqwer1234(me): https://gamebanana.com/members/3634598
+**summersby**: https://gamebanana.com/members/3549585
 
-Original work : https://gamebanana.com/mods/530715
-Band-aid fix : https://gamebanana.com/mods/581847
+**mob159**: https://gamebanana.com/members/3552703
+
+**noirqwer1234(me)**: https://gamebanana.com/members/3634598
+
+**Original work**: https://gamebanana.com/mods/530715
+
+**Band-aid fix**: https://gamebanana.com/mods/581847
 
 ## Known Issues:
 
